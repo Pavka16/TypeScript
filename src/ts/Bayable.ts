@@ -5,5 +5,5 @@ export default interface Bayable {
     readonly price: string,
     readonly year: number,
     readonly country: string,
-    // readonly img: string,
+    readonly img: string,
 }
