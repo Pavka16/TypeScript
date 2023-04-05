@@ -1,4 +1,5 @@
 # Домашнее задание к лекции «TypeScript»
+[![Build status](https://ci.appveyor.com/api/projects/status/7vfc98x6ptvy85e9?svg=true)](https://ci.appveyor.com/project/Pavka16/typescript)
 
 ### **Важные моменты** 
 
