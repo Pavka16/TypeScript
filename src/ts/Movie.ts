@@ -9,6 +9,6 @@ export default class Movie implements Bayable {
     readonly year: number,
     readonly country: string,
     readonly genres: string[],
-    readonly runtime: number,
-    readonly img: string) { }
+    readonly runtime: number) {}
+    // readonly img: string) { }
 }
